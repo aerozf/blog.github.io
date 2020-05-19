@@ -78,7 +78,7 @@ ba_track_id: [11accef3bbd97c1332e50a1a70fd60ba]
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "业精于勤而荒于嬉，行成于思而毁于随"
-sidebar-avatar: https://aerozf.oss-cn-beijing.aliyuncs.com/images/photo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://auroraus-1258416167.cos.ap-beijing.myqcloud.com/blog/blog_config/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
